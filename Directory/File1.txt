@@ -1,0 +1,6 @@
+Personal,pass123,system
+Facebook,myname000,socialmedia
+Personalmobile,0000,system
+Instagram,theotherpass222,socialmedia
+PersonaliTunes,musicpass666,system
+VK,weirdpass1,socialmedia
